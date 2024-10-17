@@ -2,9 +2,11 @@
 I'm Alex, 21 years old Software developer from Russia.
 
 ## Skills
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-</p>
+<div id="badges" align="center">
+  <a href="https://t.me/krvalexdev">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
+  </a>
+</div>
 
 ## Contact
 <div id="badges" align="center">
