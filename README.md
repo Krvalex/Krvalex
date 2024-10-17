@@ -7,3 +7,15 @@
   </a>
 </div>
 
+## Hey! Nice to see you.
+
+Welcome to my page!
+I'm Alex, 21 years old Software developer from Russia.
+
+## Skills
+- 👨‍💻 Java, C#, TypeScript, JavaScript, C etc...
+- 💽 MySQL, PostgreSQL, MongoDB
+
+## Contact
+- <a href="https://t.me/krvalexdev" target="_blank">Vk</a> 
+- <a href="https://t.me/krvalexdev" target="_blank">Telegram</a> 
