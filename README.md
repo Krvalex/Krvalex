@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Leevandr" style="text-decoration: none;">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Back-end+Dev+-+Java+Core%2C+Spring+Framework,+Go&font=Fira%20Code&center=true&width=550&height=70"/>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Back-end+Dev+-+Java+Core%2C+Spring+Framework&center=true&width=550&height=70"/>
   </a>
 </p>
 
