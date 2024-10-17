@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e47fbw0z56jtpqq0ob9q6nzhunk52w4qcsu4vyabrb0&ep=v1_gifs_related&rid=giphy.gif&ct=s)" width="100"/>
+</div>
 Welcome to my page![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ================================================================================================================================
 
