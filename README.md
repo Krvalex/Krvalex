@@ -2,7 +2,7 @@
 I'm Alex, 21 years old Software developer from Russia.
 
 ## Skills
-<div id="badges" align="center">
+<div id="badges">
   <a href="https://t.me/krvalexdev">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
   </a>
