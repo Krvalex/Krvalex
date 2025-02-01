@@ -5,7 +5,8 @@
 </p>
 
 ## Hi! Welcome to my page![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-I'm Alex, 21 years old Software developer from Russia.
+Являюсь Java-разработчиком с опытом более 2 лет , за это время изучил и активно применил на практике следующий стек технологий: Java (8,11,17,21), Spring Framework, Spring Boot, SQL, Swagger, Postman, JavaScript, HTML, ООП, REST, SOLID, Intellij IDEA, Gradle, Maven, MySQL, PostgreSQL, Hibernate ORM, JPA, Git, Docker, Apache Kafka, Микросервисная архитектура.
+Имею опыт командной разработки.
 
 ## Skills
 <div>
