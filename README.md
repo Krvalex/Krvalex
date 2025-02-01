@@ -8,6 +8,8 @@
 Являюсь Java-разработчиком с опытом более 2 лет , за это время изучил и активно применил на практике следующий стек технологий: Java (8,11,17,21), Spring Framework, Spring Boot, SQL, Swagger, Postman, JavaScript, HTML, ООП, REST, SOLID, Intellij IDEA, Gradle, Maven, MySQL, PostgreSQL, Hibernate ORM, JPA, Git, Docker, Apache Kafka, Микросервисная архитектура.
 Имею опыт командной разработки.
 
+Стремлюсь к постоянному профессиональному росту, улучшая свои навыки разработки на Java и освоения современных технологий. Хочу создавать масштабируемые и высококачественные решения, оптимизируя процессы разработки и улучшая производительность. Ориентирован на командную работу и внедрение лучших практик для достижения максимальных результатов!
+
 ## Skills
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="30" height="30"/>
